@@ -1,5 +1,97 @@
 {
-  "provider": "Pendiente de contratar o validar fuente bursátil",
-  "updated_at": null,
-  "quotes": []
+  "provider": "EODHD",
+  "updated_at": "2026-11-03",
+  "quotes": [
+    {
+      "symbol": "CCU",
+      "close": 5050.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "CHILE",
+      "close": 187.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "COLBUN",
+      "close": 153.7,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "COPEC",
+      "close": 6411.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "ENELAM",
+      "close": 83.48,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "ENELCHILE",
+      "close": 83.2,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "ENELGXCH",
+      "close": 579.51,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "IAM",
+      "close": 880.3,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "NTGCLGAS",
+      "close": 740.94,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "PARAUCO",
+      "close": 3473.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "PEHUENCHE",
+      "close": 2603.4,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "QUINENCO",
+      "close": 4509.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    },
+    {
+      "symbol": "ZOFRI",
+      "close": 1027.0,
+      "date": "2026-11-02",
+      "currency": "CLP",
+      "source": "EODHD"
+    }
+  ]
 }
