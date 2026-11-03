@@ -3,7 +3,7 @@ import json, os, urllib.request, urllib.parse, datetime, pathlib, time
 
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 TOKEN=os.getenv("EODHD_API_TOKEN","").strip()
-SYMBOLS=["CCU","CFINRENTAS","CHILE","COLBUN","COPEC","ENELAM","ENELCHILE","ENELGXCH","IAM","NTGCLGAS","PARAUCO","PEHUENCHE","QUINENCO","ZOFRI"]
+SYMBOLS=["AGUAS-A","ALMENDRAL","ANDINA-B","BCI","BICE","CAP","CCU","CENCOMALLS","CENCOSUD","CFINRENTAS","CFMITNIPSA","CHILE","CMPC","COLBUN","CONCHATORO","COPEC","ENELAM","ENELCHILE","ENELGXCH","FALABELLA","IAM","ITAUCL","LIPIGAS","NTGCLGAS","PARAUCO","PEHUENCHE","QUEMCHI","QUINENCO","SCOTIABKCL","SK","SMU","SONDA","SQM-B","VAPORES","ZOFRI"]
 # Confirmar exchange y correspondencia de símbolos en EODHD antes de habilitar.
 EXCHANGE=os.getenv("EODHD_EXCHANGE","").strip().upper()
 def fetch(path,params):
