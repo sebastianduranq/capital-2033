@@ -16,6 +16,7 @@ jobs:
       - name: Consultar proveedor
         env:
           EODHD_API_TOKEN: ${{ secrets.EODHD_API_TOKEN }}
+          EODHD_EXCHANGE: ${{ vars.EODHD_EXCHANGE }}
         run: python scripts/actualizar_mercado.py
       - name: Publicar archivos si cambiaron
         run: |
