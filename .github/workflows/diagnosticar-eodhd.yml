@@ -1,0 +1,17 @@
+name: Diagnosticar cobertura EODHD Chile
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  cobertura:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verificar mercado y símbolos sin publicar datos
+        env:
+          EODHD_API_TOKEN: ${{ secrets.EODHD_API_TOKEN }}
+        run: python scripts/diagnosticar_eodhd.py
