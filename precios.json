@@ -1,242 +1,242 @@
 {
   "provider": "EODHD",
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "quotes": [
     {
       "symbol": "AGUAS-A",
-      "close": 328.8,
-      "date": "2026-11-09",
+      "close": 332.4,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ALMENDRAL",
       "close": 24.4,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ANDINA-B",
-      "close": 4754.5,
-      "date": "2026-11-09",
+      "close": 4770.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "BCI",
-      "close": 61400.0,
-      "date": "2026-11-09",
+      "close": 60800.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "BICE",
-      "close": 431.03,
-      "date": "2026-11-09",
+      "close": 433.75,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "BSANTANDER",
-      "close": 79.35,
-      "date": "2026-11-09",
+      "close": 79.5,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CAP",
-      "close": 3910.0,
-      "date": "2026-11-09",
+      "close": 3867.5,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CCU",
-      "close": 5203.0,
-      "date": "2026-11-09",
+      "close": 5271.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CENCOMALLS",
-      "close": 2200.0,
-      "date": "2026-11-09",
+      "close": 2197.6001,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CENCOSUD",
-      "close": 1700.0,
-      "date": "2026-11-09",
+      "close": 1745.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CFINRENTAS",
-      "close": 2180.0,
-      "date": "2026-11-09",
+      "close": 2170.1001,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CFMITNIPSA",
-      "close": 4866.7998,
-      "date": "2026-11-09",
+      "close": 4871.7998,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CHILE",
-      "close": 190.8,
-      "date": "2026-11-09",
+      "close": 192.97,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CMPC",
-      "close": 884.03,
-      "date": "2026-11-09",
+      "close": 890.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "COLBUN",
       "close": 154.0,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CONCHATORO",
-      "close": 864.0,
-      "date": "2026-11-09",
+      "close": 872.48,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "COPEC",
-      "close": 6384.0,
-      "date": "2026-11-09",
+      "close": 6329.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ENELAM",
-      "close": 82.6,
-      "date": "2026-11-09",
+      "close": 83.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ENELCHILE",
-      "close": 85.1,
-      "date": "2026-11-09",
+      "close": 84.01,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ENELGXCH",
-      "close": 579.71,
-      "date": "2026-11-09",
+      "close": 579.26,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "FALABELLA",
-      "close": 6629.0,
-      "date": "2026-11-09",
+      "close": 6620.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "IAM",
-      "close": 882.03,
-      "date": "2026-11-09",
+      "close": 897.25,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ITAUCL",
-      "close": 22500.0,
-      "date": "2026-11-09",
+      "close": 22255.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "LIPIGAS",
-      "close": 9900.0,
-      "date": "2026-11-09",
+      "close": 9911.7,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "NTGCLGAS",
-      "close": 732.0,
-      "date": "2026-11-09",
+      "close": 726.45,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "PARAUCO",
-      "close": 3450.0,
-      "date": "2026-11-09",
+      "close": 3391.7,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "PEHUENCHE",
       "close": 2600.0,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "QUINENCO",
-      "close": 4500.0,
-      "date": "2026-11-09",
+      "close": 4490.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "SK",
-      "close": 1536.8,
-      "date": "2026-11-09",
+      "close": 1568.9,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "SMU",
-      "close": 103.5,
-      "date": "2026-11-09",
+      "close": 102.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "SONDA",
-      "close": 265.0,
-      "date": "2026-11-09",
+      "close": 264.93,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "SQM-B",
-      "close": 54795.0,
-      "date": "2026-11-09",
+      "close": 53500.0,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "VAPORES",
-      "close": 47.28,
-      "date": "2026-11-09",
+      "close": 47.75,
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "ZOFRI",
       "close": 1010.0,
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "currency": "CLP",
       "source": "EODHD"
     }
