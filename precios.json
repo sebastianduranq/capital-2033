@@ -1,6 +1,6 @@
 {
   "provider": "EODHD",
-  "updated_at": "2026-11-27",
+  "updated_at": "2026-11-28",
   "quotes": [
     {
       "symbol": "AGUAS-A",
@@ -25,8 +25,8 @@
     },
     {
       "symbol": "BCI",
-      "close": 61350.0,
-      "date": "2026-11-26",
+      "close": 62166.0,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
@@ -39,8 +39,8 @@
     },
     {
       "symbol": "BSANTANDER",
-      "close": 80.1,
-      "date": "2026-11-25",
+      "close": 82.97,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
@@ -60,8 +60,8 @@
     },
     {
       "symbol": "CENCOMALLS",
-      "close": 2177.8999,
-      "date": "2026-11-26",
+      "close": 2210.2,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
@@ -74,15 +74,15 @@
     },
     {
       "symbol": "CFINRENTAS",
-      "close": 2160.0,
-      "date": "2026-11-26",
+      "close": 2149.501,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
     {
       "symbol": "CFMITNIPSA",
-      "close": 4713.3,
-      "date": "2026-11-25",
+      "close": 4939.2002,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
@@ -158,8 +158,8 @@
     },
     {
       "symbol": "ITAUCL",
-      "close": 22720.0,
-      "date": "2026-11-25",
+      "close": 23336.0,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
@@ -172,8 +172,8 @@
     },
     {
       "symbol": "NTGCLGAS",
-      "close": 745.22,
-      "date": "2026-11-26",
+      "close": 799.78,
+      "date": "2026-11-27",
       "currency": "CLP",
       "source": "EODHD"
     },
